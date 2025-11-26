@@ -4,3 +4,5 @@ print (I am Jurajuk")
 print ("Sawaddeejaaaaa eiei ^^")
 
 print("ได้แล้วจ้าาาาาาา")
+
+print("คือตกลงจะได้ป่ะ งองงงง-_-")
